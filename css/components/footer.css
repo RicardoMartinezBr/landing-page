@@ -1,0 +1,20 @@
+.footer-bg {
+  background: #2c2b2b;
+  color: #6B6C6C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+  height:200px;
+}
+
+ul li {
+  display: inline-flex;
+  margin: 5px;
+  font-size: 32px;
+}
+
+li a {
+  color: #1EDD88;
+}
